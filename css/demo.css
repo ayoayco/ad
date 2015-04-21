@@ -140,7 +140,7 @@ p.codrops-demos a,
 p.codrops-demos a.current-demo,
 p.codrops-demos a.current-demo:hover{
     display: inline-block;
-	border: 1px solid #6d0019;
+	border: 1px solid #883300;
 	padding: 4px 10px 3px;
 	font-size: 13px;
 	line-height: 18px;
@@ -153,25 +153,25 @@ p.codrops-demos a.current-demo:hover{
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
-	background: #a90329;
-	background: -moz-linear-gradient(top, #a90329 0%, #8f0222 44%, #6d0019 100%);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a90329), color-stop(44%,#8f0222), color-stop(100%,#6d0019));
-	background: -webkit-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%);
-	background: -o-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%);
-	background: -ms-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%);
-	background: linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%);
+	background: #ff8400;
+	background: -moz-linear-gradient(top, #ff8400 0%, #cc6600 44%, #883300 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff8400), color-stop(44%,#cc6600), color-stop(100%,#883300));
+	background: -webkit-linear-gradient(top, #ff8400 0%,#cc6600 44%,#883300 100%);
+	background: -o-linear-gradient(top, #ff8400 0%,#cc6600 44%,#883300 100%);
+	background: -ms-linear-gradient(top, #ff8400 0%,#cc6600 44%,#883300 100%);
+	background: linear-gradient(top, #ff8400 0%,#cc6600 44%,#883300 100%);
 }
 p.codrops-demos a:hover{
-	background: #6d0019;
+	background: #883300;
 }
 p.codrops-demos a:active{
-	background: #6d0019;
-	background: -moz-linear-gradient(top, #6d0019 0%, #8f0222 56%, #a90329 100%);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6d0019), color-stop(56%,#8f0222), color-stop(100%,#a90329));
-	background: -webkit-linear-gradient(top, #6d0019 0%,#8f0222 56%,#a90329 100%);
-	background: -o-linear-gradient(top, #6d0019 0%,#8f0222 56%,#a90329 100%);
-	background: -ms-linear-gradient(top, #6d0019 0%,#8f0222 56%,#a90329 100%);
-	background: linear-gradient(top, #6d0019 0%,#8f0222 56%,#a90329 100%);
+	background: #883300;
+	background: -moz-linear-gradient(top, #883300 0%, #cc6600 56%, #ff8400 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#883300), color-stop(56%,#cc6600), color-stop(100%,#ff8400));
+	background: -webkit-linear-gradient(top, #883300 0%,#cc6600 56%,#ff8400 100%);
+	background: -o-linear-gradient(top, #883300 0%,#cc6600 56%,#ff8400 100%);
+	background: -ms-linear-gradient(top, #883300 0%,#cc6600 56%,#ff8400 100%);
+	background: linear-gradient(top, #883300 0%,#cc6600 56%,#ff8400 100%);
 	-webkit-box-shadow: 0px 1px 1px rgba(255,255,255,0.9);
 	-moz-box-shadow:0px 1px 1px rgba(255,255,255,0.9);
 	box-shadow: 0px 1px 1px rgba(255,255,255,0.9);
@@ -179,7 +179,7 @@ p.codrops-demos a:active{
 p.codrops-demos a.current-demo,
 p.codrops-demos a.current-demo:hover{
 	color: #A5727D;
-	background: #6d0019;
+	background: #883300;
 }
 /* Media Queries */
 @media screen and (max-width: 767px) {

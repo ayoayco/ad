@@ -49,7 +49,8 @@
     font-size: 240px;
     padding: 0;
     line-height: 200px;
-  color: rgba(169,3,41, 0.8);
+  /*color: rgba(169,3,41, 0.8);*/
+    color: #ff8400;
 }
 .cb-slideshow li:nth-child(1) span { background-image: url(../images/1.jpg) }
 .cb-slideshow li:nth-child(2) span {
