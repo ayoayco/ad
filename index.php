@@ -7,9 +7,9 @@
     <head>
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
-    <script src="http://ayoayco.com/js/pace.min.js"></script>
-    <link href="http://ayoayco.com/css/pace-bounce.css" rel="stylesheet" />
-        <title>Absorbing Designs: Coming Soon</title>
+        <script src="http://ayoayco.com/js/pace.min.js"></script>
+        <link href="http://ayoayco.com/css/pace-bounce.css" rel="stylesheet" />
+        <title>Absorbing Design: Coming Soon</title>
 
     <!--facebook meta tags start-->
     <meta content='281178735268020' property='fb:app_id'/>
@@ -32,12 +32,6 @@
         <link rel="stylesheet" type="text/css" href="css/demo.css" />
         <link rel="stylesheet" type="text/css" href="css/style4.css" />
         <script type="text/javascript" src="js/modernizr.custom.86080.js"></script>
-	<script>
-	  function myFunction()
-	  {
-	  alert("Awwww! We're still working on the survey.\nPlease come again soon! :)");
-	  }
-	</script>
     </head>
     <body id="page">
         <ul class="cb-slideshow">
