@@ -11,16 +11,16 @@
     <link href="http://ayoayco.com/css/pace-bounce.css" rel="stylesheet" />
         <title>Absorbing Designs: Coming Soon</title>
 
-<!--facebook meta tags start-->
-<meta content='281178735268020' property='fb:app_id'/>
-<meta content='ayoJobhunter' property='fb:admins'/>
-<meta content='https://lh5.googleusercontent.com/-EHLk5VAMagE/UzIl76gJhtI/AAAAAAAADVk/f6nz4JMpKIE/w529-h281-no/thumb.JPG' property='og:image'/>
-<meta content='The Absorbing Brand' property='og:site_name'/>
-<meta content='http://theabsorbingbrand.com' property='og:url'/>
-<meta content='We are a meticulous team of artists out on an adventure to find the kind of brands that will help small businesses, personalities, and organizations dominate their market.' property='og:description'/>
-<meta content='ayos-journal:blog' property='og:type'/>
-<meta content='The Absorbing Brand: Coming Soon' property='og:title'/>
-<!--facebook meta tags end-->
+    <!--facebook meta tags start-->
+    <meta content='281178735268020' property='fb:app_id'/>
+    <meta content='ayoJobhunter' property='fb:admins'/>
+    <meta content='http://absorbingdesign.com/images/AbsorbingDesignsHeader3.png' property='og:image'/>
+    <meta content='Absorbing Design' property='og:site_name'/>
+    <meta content='http://absorbingdesign.com' property='og:url'/>
+    <meta content='We are a meticulous team of artists out on an adventure to find the kind of brands that will help small businesses, personalities, and organizations dominate their market.' property='og:description'/>
+    <meta content='ayos-journal:blog' property='og:type'/>
+    <meta content='Absorbing Design: Coming Soon' property='og:title'/>
+    <!--facebook meta tags end-->
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
         <meta name="description" content="Fullscreen Background Image Slideshow with CSS3 - A Css-only fullscreen background image slideshow" />
