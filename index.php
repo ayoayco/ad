@@ -25,7 +25,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
         <meta name="description" content="Fullscreen Background Image Slideshow with CSS3 - A Css-only fullscreen background image slideshow" />
         <meta name="keywords" content="css3, css-only, fullscreen, background, slideshow, images, content" />
-        <meta name="author" content="Codrops" />
+        <meta name="author" content="Ayo Ayco" />
 		<link href='http://fonts.googleapis.com/css?family=Alegreya+Sans+SC:700' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Gafata' rel='stylesheet' type='text/css'>
         <link rel="shortcut icon" href="../favicon.ico"> 
