@@ -59,11 +59,28 @@
 		
             <header>
                 <h1>A new design studio in Manila</h1>
-                <h2>The quest begins this 2015!</h2>
+                <h2>The quest begins this 2016!</h2>
 				<p class="codrops-demos">
 					<a href="portfolio/">Portfolio &raquo;</a>
 				</p>
             </header>
         </div>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=10685794; 
+var sc_invisible=1; 
+var sc_security="031b66f5"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="click tracking"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/10685794/0/031b66f5/1/"
+alt="click tracking"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
     </body>
 </html><!--survey<?php if(isset($_GET['class'])) echo '?class='.$_GET['class'];?>-->
